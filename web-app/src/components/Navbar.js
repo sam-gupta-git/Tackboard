@@ -10,6 +10,7 @@ function Navbar() {
       </div>
       <ul className="navbar-links">
         <li><Link to="/">My Board</Link></li>
+        <li><Link to="/jobs">Jobs</Link></li>
         <li><Link to="/stats">Stats</Link></li>
       </ul>
     </nav>
